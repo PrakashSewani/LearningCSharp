@@ -1,0 +1,12 @@
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.AssemblyReference.cache
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfoInputs.cache
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfo.cs
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.CoreCompileInputs.cache
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\bin\Debug\net6.0\LibraryUtil.deps.json
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\bin\Debug\net6.0\LibraryUtil.dll
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\bin\Debug\net6.0\LibraryUtil.pdb
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.dll
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\refint\LibraryUtil.dll
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\LibraryUtil.pdb
+C:\Users\PrakashS\source\repos\LibraryUtil\LibraryUtil\obj\Debug\net6.0\ref\LibraryUtil.dll
